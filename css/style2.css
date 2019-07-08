@@ -1,0 +1,36 @@
+      
+
+    h3 {
+    font-size: 1.2rem;
+}
+
+    .playlist-video {
+        width: 100%;
+        padding: 10px 0
+    }
+
+
+    .video-meta-data,
+    .video-description {
+        font-size: 0.8rem;
+        font-weight: 400;
+        list-style-type: none;
+
+
+    }
+
+    .video-description {
+        max-width: 60rem;
+        line-height: 1.4;
+    }
+
+    .video-meta-data li {
+        display: inline-block;
+        list-style-type: none;
+
+    }
+
+    .video-creator {
+        padding-right: 0.4rem;
+        list-style-type: none;
+    }
